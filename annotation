@@ -1,0 +1,6 @@
+Spring注解相关
+
+1.@ControllerAdvice（参考链接：https://blog.csdn.net/zxfryp909012366/article/details/82955259）
+    1.1 @ExceptionHandler
+    1.2 @InitBinder
+    1.3 @ModelAttribute
